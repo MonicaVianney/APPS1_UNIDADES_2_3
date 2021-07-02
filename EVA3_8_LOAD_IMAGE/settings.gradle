@@ -1,0 +1,2 @@
+rootProject.name = "EVA3_8_LOAD_IMAGE"
+include ':app'
